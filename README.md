@@ -1,6 +1,6 @@
 # Relax Chrome Dinosaur Game
 
-![Dino Game Screenshot](https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Chrome_Dino_Game.png/300px-Chrome_Dino_Game.png)
+![Dino Game Screenshot](https://github.com/kamilhussen24/Relax-chrome-dinosaur-Game/raw/refs/heads/main/img/game-preview.jpg)
 
 ## Overview
 This project is a modified version of the popular Google Chrome Dinosaur Game, designed to play automatically. Unlike the original game, which requires players to manually jump over obstacles, this version detects obstacles and makes the dinosaur jump on its own. Once started, the game runs automatically without any further input.
@@ -15,7 +15,7 @@ This project is a modified version of the popular Google Chrome Dinosaur Game, d
 - 
 ## How to Play
 1. Open any modern web browser.
-2. Go to [Relax Dinosaur Game Chrome](https://RelaxGameChrome.com).
+2. Go to [Relax Dinosaur Game Chrome](https://kamilhussen24.github.io/Relax-chrome-dinosaur-Game/).
 3. Start the game once and let it play automatically.
 
 ## Notes
