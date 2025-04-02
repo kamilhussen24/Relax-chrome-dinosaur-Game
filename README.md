@@ -1,4 +1,4 @@
-# Relax Dinosaur Game Chrome
+# Relax Chrome Dinosaur Game
 
 ![Dino Game Screenshot](https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Chrome_Dino_Game.png/300px-Chrome_Dino_Game.png)
 
@@ -10,7 +10,9 @@ This project is a modified version of the popular Google Chrome Dinosaur Game, d
 - **Fully Automatic Gameplay:** The dinosaur jumps over obstacles without any user input.
 - **One-Time Start:** Just start the game once, and it will continue playing automatically.
 - **No Manual Interaction Needed:** The game handles everything by itself.
-
+- **Online woodworking:** original com diagnosper game only working offline mode but this game online mode working. all time enjoy.
+## Auto play Google chrome dinosaur game
+- 
 ## How to Play
 1. Open any modern web browser.
 2. Go to [Relax Dinosaur Game Chrome](https://RelaxGameChrome.com).
