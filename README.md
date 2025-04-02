@@ -24,4 +24,4 @@ This project is a modified version of the popular Google Chrome Dinosaur Game, d
 - This project has no separate license; it follows Google's Chrome Dinosaur Game license.
 
 ## Disclaimer
-This project is based on Google Chrome's Dinosaur Game and is not affiliated with or endorsed by Google.
+This project is based on Google Chrome's Dinosaur Game and is not affiliated with or endorsed by Google. just source code modify me 
